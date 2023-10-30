@@ -1,0 +1,8 @@
+Nome: paulo
+Sobrenome: dos santos
+Telefone: 81995284440
+CPF: 05304692438
+Habilidades:
+teste
+
+
